@@ -18,7 +18,7 @@ Stride : 1 <p>
 Pool size : 2 <p>
 Pool Stride : 2 <p>
 Batch Size : 128 <p>
-GPU use: No <p>
+GPU used: No <p>
 Iterations : 4300 <p>
 Test set Accuracy : 98.12% <p>
 
